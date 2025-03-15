@@ -9,10 +9,10 @@ import {
 
 
 const socialLinks = [
-  { icon: <Linkedin size={18} />, href: "https://linkedin.com/", label: "LinkedIn" },
-  { icon: <Twitter size={18} />, href: "https://twitter.com/", label: "Twitter" },
-  { icon: <Github size={18} />, href: "https://twitter.com/", label: "Github" },
-  { icon: <Gitlab size={18} />, href: "https://twitter.com/", label: "Gitlab" },
+  { icon: <Linkedin size={18} />, href: "https://www.linkedin.com/in/vatsal-trivedi18/", label: "LinkedIn" },
+  { icon: <Twitter size={18} />, href: "https://x.com/vatsaltrivedi20?s=21&t=b62kQEyAeiIsUbsY_EiUsA", label: "Twitter" },
+  { icon: <Github size={18} />, href: "https://github.com/", label: "Github" },
+  { icon: <Gitlab size={18} />, href: "https://gitlab.com/", label: "Gitlab" },
 ]
 
 export default function SocialIcons() {
