@@ -21,8 +21,10 @@ export default function Navigation() {
         <Link
           key={item.name}
           href={item.path}
-          className={`nav-link ${pathname === item.path ? "active text-accent" : "text-white hover:text-accent"} transition-colors`}
-        >
+          className={`relative nav-link transition-colors duration-300 ${
+            pathname === item.path ? "text-accent" : "text-white hover:text-accent"
+          } before:absolute before:bottom-0 before:left-0 before:w-0 before:h-[2px] before:bg-accent before:transition-all before:duration-300 before:ease-in-out hover:before:w-full`}
+                >
           {item.name}
         </Link>
       ))}

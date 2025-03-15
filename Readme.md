@@ -1,3 +1,7 @@
+purple Theme: 
+
+--- > 
+
 import type { Config } from "tailwindcss"
 
 const config: Config = {
@@ -61,3 +65,13 @@ const config: Config = {
 }
 
 export default config
+
+
+========================= 
+
+
+
+Original Theme : 
+
+--- > 
+Background	#050505	Deep black.

@@ -1,13 +1,11 @@
 import Navigation from "@/components/navigation"
 import SocialIcons from "@/components/social-icons"
+import TypewriterSpan from "@/components/typewriter"
 
 export default function About() {
   return (
     <main className="flex flex-col items-center justify-center w-full max-w-3xl mx-auto">
-      <h1 className="text-4xl md:text-5xl font-bold mb-2">Vatsal Trivedi</h1>
-      <p className="text-xl mb-8">
-        I'm <span className="text-accent">Hacker</span>
-      </p>
+      <TypewriterSpan />
 
       <Navigation />
 

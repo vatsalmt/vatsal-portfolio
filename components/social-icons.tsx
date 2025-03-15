@@ -1,13 +1,18 @@
 import Link from "next/link"
-import { Linkedin, Instagram, MessageCircle, Phone, Mail, Twitter } from "lucide-react"
+import { 
+  Linkedin,
+  Twitter,
+  Github,
+  Gitlab 
+} from "lucide-react"
+
+
 
 const socialLinks = [
   { icon: <Linkedin size={18} />, href: "https://linkedin.com/", label: "LinkedIn" },
-  { icon: <Instagram size={18} />, href: "https://instagram.com/", label: "Instagram" },
-  { icon: <MessageCircle size={18} />, href: "https://discord.com/", label: "Discord" },
-  { icon: <Phone size={18} />, href: "https://wa.me/", label: "WhatsApp" },
-  { icon: <Mail size={18} />, href: "mailto:example@example.com", label: "Email" },
   { icon: <Twitter size={18} />, href: "https://twitter.com/", label: "Twitter" },
+  { icon: <Github size={18} />, href: "https://twitter.com/", label: "Github" },
+  { icon: <Gitlab size={18} />, href: "https://twitter.com/", label: "Gitlab" },
 ]
 
 export default function SocialIcons() {
