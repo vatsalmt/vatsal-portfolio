@@ -12,8 +12,8 @@ export default function About() {
       <div className="mt-12 text-left w-full">
         <h2 className="text-2xl font-bold mb-4">About Me</h2>
         <p className="mb-4">
-          Hello! I'm a passionate hacker and cybersecurity enthusiast with expertise in penetration testing,
-          vulnerability assessment, and secure coding practices.
+        As a seasoned Cybersecurity Expert, I specialize in safeguarding complex IT environments through a comprehensive range of security services. With a strong foundation in Security Operations, I have honed my skills as a Security Operations Center (SOC) Analyst, where I have been responsible for monitoring, detecting, and mitigating security threats to ensure the integrity and confidentiality of critical systems and data.
+          
         </p>
         <p className="mb-4">
           With a strong foundation in computer science and information security, I specialize in identifying and
