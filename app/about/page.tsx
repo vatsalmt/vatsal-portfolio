@@ -16,8 +16,7 @@ export default function About() {
           
         </p>
         <p className="mb-4">
-          With a strong foundation in computer science and information security, I specialize in identifying and
-          mitigating security risks in web applications, networks, and systems.
+          My approach is proactive. I thrive on staying ahead of evolving threats and creating secure frameworks tailored to an organization's needs. Whether it's conducting risk assessments, implementing security protocols, or creating disaster recovery plans, I aim to provide solutions that not only defend against potential breaches but also ensure operational resilience.
         </p>
         <p className="mb-4">
           My goal is to help organizations strengthen their security posture and protect their digital assets from
