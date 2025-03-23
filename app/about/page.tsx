@@ -19,8 +19,7 @@ export default function About() {
           My approach is proactive. I thrive on staying ahead of evolving threats and creating secure frameworks tailored to an organization's needs. Whether it's conducting risk assessments, implementing security protocols, or creating disaster recovery plans, I aim to provide solutions that not only defend against potential breaches but also ensure operational resilience.
         </p>
         <p className="mb-4">
-          My goal is to help organizations strengthen their security posture and protect their digital assets from
-          potential threats.
+        By continuously exploring the latest cybersecurity trends and best practices, I work to strengthen systems and minimize risks, allowing businesses to operate with confidence in today's digital landscape.
         </p>
       </div>
 
