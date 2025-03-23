@@ -13,13 +13,14 @@ export default function Experience() {
         <h2 className="text-2xl font-bold mb-6">Experience</h2>
 
         <div className="mb-8">
-          <h3 className="text-xl font-semibold">Senior Security Engineer</h3>
-          <p className="text-accent">Company Name, 2022-Present</p>
+          <h3 className="text-xl font-semibold">SOC Analyst</h3>
+          <p className="text-accent">PSY9 Security PVT LTD., 2023-Present</p>
           <ul className="list-disc list-inside mt-2">
-            <li>Lead penetration testing efforts for critical web applications and infrastructure</li>
-            <li>Develop and implement security policies and procedures</li>
-            <li>Conduct security awareness training for development and operations teams</li>
-            <li>Perform code reviews to identify security vulnerabilities</li>
+            <li>Monitor Security Alerts: Continuously monitor security alerts and events from SIEM systems, intrusion detection systems, firewalls, and antivirus tools.</li>
+            <li>Incident Detection and Response: Investigate suspicious activities, assess severity, and escalate as needed. Provide timely responses to mitigate threats.</li>
+            <li>Incident Documentation: Document incidents and investigation steps for reporting, analysis, and compliance.</li>
+            <li>Perform Root Cause Analysis: Investigate the root cause of incidents and recommend strategies to prevent future attacks.</li>
+            <li>Build a Security Operations Center (SOC): Design and implement SOC infrastructure, including hardware, software, workflows, and monitoring processes tailored to the company’s needs.</li>
           </ul>
         </div>
 
@@ -35,10 +36,10 @@ export default function Experience() {
         </div>
 
         <div className="mb-8">
-          <h3 className="text-xl font-semibold">Security Intern</h3>
-          <p className="text-accent">Company Name, 2019-2020</p>
+          <h3 className="text-xl font-semibold">Cyber Security Intern</h3>
+          <p className="text-accent">Cyber-Secured India, May 2023- July 2023</p>
           <ul className="list-disc list-inside mt-2">
-            <li>Assisted in vulnerability scanning and remediation</li>
+            <li>Practice in vulnerability scanning and remediation</li>
             <li>Researched emerging security threats and mitigation strategies</li>
             <li>Developed scripts to automate security testing processes</li>
             <li>Participated in incident response simulations</li>
