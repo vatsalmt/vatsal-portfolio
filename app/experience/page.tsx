@@ -13,35 +13,45 @@ export default function Experience() {
         <h2 className="text-2xl font-bold mb-6">Experience</h2>
 
         <div className="mb-8">
-          <h3 className="text-xl font-semibold">Senior Security Engineer</h3>
-          <p className="text-accent">Company Name, 2022-Present</p>
+          <h3 className="text-xl font-semibold">SOC Analyst</h3>
+          <p className="text-accent">PSY9 Security PVT LTD 2023-Present</p>
           <ul className="list-disc list-inside mt-2">
-            <li>Lead penetration testing efforts for critical web applications and infrastructure</li>
-            <li>Develop and implement security policies and procedures</li>
-            <li>Conduct security awareness training for development and operations teams</li>
-            <li>Perform code reviews to identify security vulnerabilities</li>
+            <li>Monitor Security Alerts: Continuously monitor security alerts and events from SIEM systems, intrusion detection systems, firewalls, and antivirus tools.
+            </li>
+            <li>Incident Detection and Response: Investigate suspicious activities, assess severity, and escalate as needed. Provide timely responses to mitigate threats.
+            </li>
+            <li>Incident Documentation: Document incidents and investigation steps for reporting, analysis, and compliance.
+            </li>
+            <li>Perform Root Cause Analysis: Investigate the root cause of incidents and recommend strategies to prevent future attacks.
+            </li>
+            <li>Build a Security Operations Center (SOC): Design and implement SOC infrastructure, including hardware, software, workflows, and monitoring processes tailored to the company’s needs.
+
+            </li>
           </ul>
         </div>
 
         <div className="mb-8">
-          <h3 className="text-xl font-semibold">Cybersecurity Analyst</h3>
-          <p className="text-accent">Company Name, 2020-2022</p>
+          <h3 className="text-xl font-semibold">Cybersecurity Intern</h3>
+          <p className="text-accent">Tech Defense, June 2023 - August 2023</p>
           <ul className="list-disc list-inside mt-2">
-            <li>Performed vulnerability assessments and security audits</li>
-            <li>Monitored security incidents and coordinated response efforts</li>
-            <li>Implemented security tools and technologies to enhance protection</li>
-            <li>Collaborated with development teams to integrate security into SDLC</li>
+            <li>During my internship at Tech Defense, I gained hands-on experience identifying and mitigating cyberattacks through labs focused on the OWASP Top 10 vulnerabilities, including SQL injection and XSS.</li>
+
+            <li> This training enhanced my skills in penetration testing, vulnerability assessment, and secure coding practices.</li>
+
+
+
           </ul>
         </div>
 
         <div className="mb-8">
-          <h3 className="text-xl font-semibold">Security Intern</h3>
-          <p className="text-accent">Company Name, 2019-2020</p>
+          <h3 className="text-xl font-semibold">Cybersecurity Intern</h3>
+
+
+
+          <p className="text-accent">Cyber Secured India, April 2023-June 2023</p>
           <ul className="list-disc list-inside mt-2">
-            <li>Assisted in vulnerability scanning and remediation</li>
-            <li>Researched emerging security threats and mitigation strategies</li>
-            <li>Developed scripts to automate security testing processes</li>
-            <li>Participated in incident response simulations</li>
+            <li>During my internship at Cyber Secured India, I completed hands-on labs using PortSwigger, TryHackMe, and Let's Defend, focusing on VAPT and SOC skills.</li>
+            <li> I gained practical experience in vulnerability assessments, penetration testing, and incident response.</li>
           </ul>
         </div>
       </div>

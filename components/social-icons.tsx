@@ -5,14 +5,14 @@ import {
   Github,
   Gitlab 
 } from "lucide-react"
-
+import { SiGitbook } from "react-icons/si";
 
 
 const socialLinks = [
   { icon: <Linkedin size={18} />, href: "https://www.linkedin.com/in/vatsal-trivedi18/", label: "LinkedIn" },
   { icon: <Twitter size={18} />, href: "https://x.com/vatsaltrivedi20?s=21&t=b62kQEyAeiIsUbsY_EiUsA", label: "Twitter" },
   { icon: <Github size={18} />, href: "https://github.com/", label: "Github" },
-  { icon: <Gitlab size={18} />, href: "https://gitlab.com/", label: "Gitlab" },
+  { icon: <SiGitbook size={18} />, href: "https://ahmsec.gitbook.io/ahmsec/", label: "GitBook" },
 ]
 
 export default function SocialIcons() {
